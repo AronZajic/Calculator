@@ -1,7 +1,7 @@
 # Calculator
 A C++ command line calculator that can use variables and functions
 # Usage
-Basic Aritmetics:
+## Basic Aritmetics:
 
 .>2+2
 
@@ -27,7 +27,7 @@ Basic Aritmetics:
 
 .=6
 
-Defining variables:
+## Defining variables:
 
 .>x=5
 
@@ -55,7 +55,7 @@ Defining variables:
 
 .=144.000000
 
-Function definition and usage:
+## Function definition and usage:
 
 .>f:=x*x
 
